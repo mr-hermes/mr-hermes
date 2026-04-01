@@ -20,5 +20,7 @@
 <details>
 <summary>pony town rules</summary>
 <sup><sub>c+h is always! i love sitting with others!
-dniuid/dniuf also always... though i dont really mind if others start, just be aware i might not answer
+	
+dniuid/dniuf when busy status, c+h is still allowed
 </details>
+

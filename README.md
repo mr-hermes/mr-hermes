@@ -5,7 +5,7 @@
 ![](https://files.catbox.moe/1aqq1b.jpg)
 </p>
 
-[@next-to-normal](https://github.com/next-to-normal) [@hadestovvn](https://github.com/HADESTOVVN) [@fly-icarus](https://github.com/fly-icarus)
+[@six-of-crows](https://github.com/six-of-crows) [@hadestovvn](https://github.com/HADESTOVVN) [@fly-icarus](https://github.com/fly-icarus)
 
 <p align="center">
 	

@@ -21,10 +21,10 @@ main accounts
 
 <details>
 <summary>pony town rules</summary>
-<sup><sub>c+h is always! i love sitting with others
-	
-do not copy my ponies
+<sup><sub>c+h is allowed always
 
-dniuid/dniuf when busy status, c+h is still allowed
+dniuid/dniuf when busy status
+
+do not copy my ponies
 </details>
 

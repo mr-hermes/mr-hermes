@@ -6,7 +6,7 @@
 </p>
 main accounts
 
-[@six-of-crows](https://github.com/six-of-crows) [@hadestovvn](https://github.com/HADESTOVVN) [@fly-icarus](https://github.com/fly-icarus)
+[@skubany-hermes](https://github.com/skubany-hermes) [@hadestovvn](https://github.com/HADESTOVVN) [@fly-icarus](https://github.com/fly-icarus)
 
 <p align="center">
 	

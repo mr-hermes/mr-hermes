@@ -6,7 +6,7 @@
 </p>
 main accounts
 
-[@skubany-hermes](https://github.com/skubany-hermes) [@hadestovvn](https://github.com/HADESTOVVN) [@fly-icarus](https://github.com/fly-icarus)
+[@hermes-s](https://github.com/hermes-s) [@hadestovvn](https://github.com/HADESTOVVN) [@fly-icarus](https://github.com/fly-icarus)
 
 <p align="center">
 	
